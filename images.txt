@@ -1,2 +1,1 @@
-openjdk:1.8
 openjdk:17
