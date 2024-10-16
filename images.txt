@@ -1,3 +1,1 @@
-openjdk:17
-nginx:latest
-openjdk:17-jdk
+nginx:1.26.2
